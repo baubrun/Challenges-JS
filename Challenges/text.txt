@@ -1,0 +1,83 @@
+
+
+
+
+
+
+
+-Letter Combinations of a Phone Number
+(https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+
+-Given a React component with this initial state:
+const [users, setUsers] = useState([{name: 'bob', age: 23}, {name: 'paul', age: 36}]);
+
+Render a div for each user and display the name, age, and a string ‘even’ or ‘odd’
+next to the age depending on whether or not the age is even. 
+Also have a button to increment the age for the specific user.
+
+
+
+------------
+General:
+What is HTTP?
+
+What are HTTP headers?
+
+What is NodeJS?
+
+What is ExpressJS?
+
+What is a client?
+
+What is a server?
+
+What is an endpoint?
+
+What is an API?
+
+What is Webpack?
+
+What is Babel?
+
+What is a callback function?
+
+What is a Promise?
+
+What is async / await?
+
+What is a package.json file?
+
+What is Git?
+
+What is the difference between import and require?
+
+What is a javascript prototype?
+
+What is a constructor?
+
+What is the difference between a statement and an expression?
+
+What is the difference between == and ===?
+
+What is the return value of [] == []? [] === []?
+
+What is the return value of null == undefined? null === undefined?
+
+What is hoisting in Javascript?
+
+What is the difference between var, let and const?
+
+A library stores isbn numbers to keep track of its books. We want to check if the library has a book. Would it be faster to do this check if the isbn numbers are stored in an array or in a map?
+
+What is a media query?
+
+What is a CSS preprocessor?
+
+What is a vendor prefix in CSS?
+
+What is the difference between a function declaration and a function expression?
+
+What is an implicit return in an arrow function?
+
+What is the value of this inside a function? Inside an arrow function?
+
