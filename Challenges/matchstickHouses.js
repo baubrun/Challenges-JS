@@ -1,3 +1,6 @@
+/* see image for instructions */
+
+
 function matchHouses(step) {
     let sides = 0
     let collapseBorders = 0

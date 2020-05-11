@@ -16,7 +16,7 @@ const common_arrays = (arr1, arr2) => {
             common.push(arr1[i])
             i++
             j++
-        } else if (arr1[i] < arr2) {
+        } else if (arr1[i] < arr2[j]) {
             i++
         } else {
             j++
@@ -26,7 +26,7 @@ const common_arrays = (arr1, arr2) => {
 }
 
 a = [1, 2, 3, "a", "b", "c", "1"]
-b = [1, 2, 3, 4, 5, 6, ]
+b = [1, 2, 3, "a", 4, 5, 6, ]
 
 const ans = common_arrays(a, b)
 console.log('ans:', ans)

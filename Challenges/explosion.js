@@ -41,7 +41,7 @@ function boomIntensity(n) {
 }
 
 
+console.log(boomIntensity(4))
 console.log(boomIntensity(1))
-console.log(boomIntensity(2))
 console.log(boomIntensity(5))
 console.log(boomIntensity(10))

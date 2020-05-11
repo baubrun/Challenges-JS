@@ -37,6 +37,6 @@ const leftRotation = (arr, d) => {
 }
 
 const arr = [1,2,3,4,5] 
-const ans = leftRotation(arr, 2)   //[3,4,5,1,2].
+const ans = leftRotation(arr, 2)   
 console.log('ans:', ans)
 

@@ -22,5 +22,6 @@ function addUp(num) {
 }
 
 
-const ans = addUp(4)
-console.log(ans)
+console.log(addUp(4)) 
+console.log(addUp(13)) 
+console.log(addUp(600)) 
