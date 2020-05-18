@@ -1,1 +1,1 @@
-## Coding problems and solutions in JS
+## Coding problems and solutions in JS with Jest testing

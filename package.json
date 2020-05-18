@@ -1,0 +1,23 @@
+{
+  "name": "JS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prac.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baubrun/Challenges-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baubrun/Challenges-JS/issues"
+  },
+  "homepage": "https://github.com/baubrun/Challenges-JS#readme",
+  "dependencies": {
+    "jest": "^26.0.1"
+  }
+}

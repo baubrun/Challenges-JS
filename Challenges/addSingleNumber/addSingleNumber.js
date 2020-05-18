@@ -22,6 +22,4 @@ function addUp(num) {
 }
 
 
-console.log(addUp(4)) 
-console.log(addUp(13)) 
-console.log(addUp(600)) 
+module.exports = addUp
